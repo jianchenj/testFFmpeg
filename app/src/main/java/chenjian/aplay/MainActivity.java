@@ -24,9 +24,9 @@ public class MainActivity extends AppCompatActivity {
         PermissionUtil.verifyStoragePermissions(this);
 
         // Example of a call to a native method
-        TextView tv = findViewById(R.id.sample_text);
+        //TextView tv = findViewById(R.id.sample_text);
         //open("/sdcard/DCIM/Camera/test1.mp4", this);
-        tv.setText(stringFromJNI());
+        //tv.setText(stringFromJNI());
     }
 
     /**
