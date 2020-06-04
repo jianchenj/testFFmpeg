@@ -5,6 +5,7 @@ import androidx.core.app.ActivityCompat;
 
 import android.Manifest;
 import android.app.Activity;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.widget.TextView;
@@ -27,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         //TextView tv = findViewById(R.id.sample_text);
         //open("/sdcard/DCIM/Camera/test1.mp4", this);
         //tv.setText(stringFromJNI());
+        //startActivity(new Intent(this.getApplicationContext(), TestActivity.class));
     }
 
     /**

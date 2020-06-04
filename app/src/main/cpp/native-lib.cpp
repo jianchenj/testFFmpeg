@@ -160,7 +160,7 @@ Java_chenjian_aplay_Xplay_Open(JNIEnv *env, jobject thiz, jstring url_, jobject 
     //软解码器
     AVCodec *codec = avcodec_find_decoder(ic->streams[videoStream]->codecpar->codec_id);
     //硬解码
-    codec = avcodec_find_decoder_by_name("h264_mediacodec");
+    //codec = avcodec_find_decoder_by_name("h264_mediacodec");
     if(!codec)
     {
         LOGW("avcodec_find failed!");
@@ -212,8 +212,8 @@ Java_chenjian_aplay_Xplay_Open(JNIEnv *env, jobject thiz, jstring url_, jobject 
 
     //初始化像素格式转换的上下文
     SwsContext *vctx = NULL;
-    int outWidth = 1920;
-    int outHeight =  1080;
+    int outWidth = 1280;
+    int outHeight =  720;
     char *rgb = new char[1920*1080*4];
     char *pcm = new char[48000*4*2];
 
