@@ -1,0 +1,55 @@
+[
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86",
+  "command": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86",
+  "command": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\test2.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test2.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test2.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86",
+  "command": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\test3.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test3.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test3.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86",
+  "command": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\test4.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test4.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test4.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86",
+  "command": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\JavaCallHelper.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\JavaCallHelper.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\JavaCallHelper.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86",
+  "command": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\macro.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\macro.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\macro.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86",
+  "command": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\JFFmpeg.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\JFFmpeg.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\JFFmpeg.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86",
+  "command": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\AudioChannel.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\AudioChannel.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\AudioChannel.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86",
+  "command": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\VideoChannel.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\VideoChannel.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\VideoChannel.cpp"
+}
+]

@@ -1,0 +1,63 @@
+ninja: Entering directory `D:\studio_workspace\testFFmpeg\app\.cxx\cmake\debug\armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/VideoChannel.cpp.o
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/VideoChannel.cpp:141:16: warning: expression result unused [-Wunused-value]
+        frame->pts;
+        ~~~~~  ^~~
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/VideoChannel.cpp:155:64: warning: format specifies type 'int' but the argument has type 'double' [-Wformat]
+        LOGI("VideoChannel:: synchronizeFrame audio clock %d", audioClock);
+                                                          ~~   ^~~~~~~~~~
+                                                          %f
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/macro.h:13:61: note: expanded from macro 'LOGI'
+#define LOGI(...) __android_log_print(ANDROID_LOG_INFO,TAG ,__VA_ARGS__) // 定义LOGI类型
+                                                            ^~~~~~~~~~~
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/VideoChannel.cpp:156:64: warning: format specifies type 'int' but the argument has type 'double' [-Wformat]
+        LOGI("VideoChannel:: synchronizeFrame video clock %d", clock);
+                                                          ~~   ^~~~~
+                                                          %f
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/macro.h:13:61: note: expanded from macro 'LOGI'
+#define LOGI(...) __android_log_print(ANDROID_LOG_INFO,TAG ,__VA_ARGS__) // 定义LOGI类型
+                                                            ^~~~~~~~~~~
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/VideoChannel.cpp:158:64: warning: format specifies type 'int' but the argument has type 'double' [-Wformat]
+        LOGI("VideoChannel:: synchronizeFrame frame_delay %d", frame_delay);
+                                                          ~~   ^~~~~~~~~~~
+                                                          %f
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/macro.h:13:61: note: expanded from macro 'LOGI'
+#define LOGI(...) __android_log_print(ANDROID_LOG_INFO,TAG ,__VA_ARGS__) // 定义LOGI类型
+                                                            ^~~~~~~~~~~
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/VideoChannel.cpp:159:64: warning: format specifies type 'int' but the argument has type 'double' [-Wformat]
+        LOGI("VideoChannel:: synchronizeFrame extra_delay %d", extra_delay);
+                                                          ~~   ^~~~~~~~~~~
+                                                          %f
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/macro.h:13:61: note: expanded from macro 'LOGI'
+#define LOGI(...) __android_log_print(ANDROID_LOG_INFO,TAG ,__VA_ARGS__) // 定义LOGI类型
+                                                            ^~~~~~~~~~~
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/VideoChannel.cpp:161:50: warning: format specifies type 'int' but the argument has type 'double' [-Wformat]
+        LOGE("-----------相差----------  %d ", diff);
+                                         ~~    ^~~~
+                                         %f
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/macro.h:15:62: note: expanded from macro 'LOGE'
+#define LOGE(...) __android_log_print(ANDROID_LOG_ERROR,TAG ,__VA_ARGS__) // 定义LOGE类型
+                                                             ^~~~~~~~~~~
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/VideoChannel.cpp:164:61: warning: format specifies type 'int' but the argument has type 'double' [-Wformat]
+                LOGE("-----------睡眠long----------  %d", (delay * 2));
+                                                     ~~   ^~~~~~~~~~~
+                                                     %f
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/macro.h:15:62: note: expanded from macro 'LOGE'
+#define LOGE(...) __android_log_print(ANDROID_LOG_ERROR,TAG ,__VA_ARGS__) // 定义LOGE类型
+                                                             ^~~~~~~~~~~
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/VideoChannel.cpp:168:63: warning: format specifies type 'int' but the argument has type 'double' [-Wformat]
+                LOGE("-----------睡眠normal----------  %d", (delay + diff));
+                                                       ~~   ^~~~~~~~~~~~~~
+                                                       %f
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/macro.h:15:62: note: expanded from macro 'LOGE'
+#define LOGE(...) __android_log_print(ANDROID_LOG_ERROR,TAG ,__VA_ARGS__) // 定义LOGE类型
+                                                             ^~~~~~~~~~~
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/VideoChannel.cpp:172:68: warning: format specifies type 'int' but the argument has type 'double' [-Wformat]
+            LOGE("-----------音频超前，相差----------  %d", diff);
+                                                       ~~   ^~~~
+                                                       %f
+D:/studio_workspace/testFFmpeg/app/src/main/cpp/macro.h:15:62: note: expanded from macro 'LOGE'
+#define LOGE(...) __android_log_print(ANDROID_LOG_ERROR,TAG ,__VA_ARGS__) // 定义LOGE类型
+                                                             ^~~~~~~~~~~
+9 warnings generated.
+[2/2] Linking CXX shared library D:\studio_workspace\testFFmpeg\app\build\intermediates\cmake\debug\obj\armeabi-v7a\libnative-lib.so

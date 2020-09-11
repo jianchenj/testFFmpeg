@@ -1,0 +1,61 @@
+[
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\test2.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test2.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test2.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\test3.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test3.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test3.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\test4.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test4.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test4.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\JavaCallHelper.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\JavaCallHelper.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\JavaCallHelper.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\macro.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\macro.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\macro.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\JFFmpeg.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\JFFmpeg.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\JFFmpeg.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\AudioChannel.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\AudioChannel.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\AudioChannel.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\VideoChannel.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\VideoChannel.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\VideoChannel.cpp"
+},
+
+{
+  "directory": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\SafeQueue.cpp.o -c D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\SafeQueue.cpp",
+  "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\SafeQueue.cpp"
+}
+]

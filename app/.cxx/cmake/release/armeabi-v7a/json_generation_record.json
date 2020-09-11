@@ -1,0 +1,416 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\24.0.1\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\25.0.3\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\26.0.2\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\27.0.3\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\28.0.2\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\28.0.3\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\29.0.1\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\29.0.2\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\29.0.3\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\build-tools\\30.0.0\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\cmake\\3.10.2.4988404\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\cmake\\3.6.4111459\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\emulator\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\extras\\google\\usb_driver\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\extras\\intel\\Hardware_Accelerated_Execution_Manager\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\ndk\\20.0.5594570\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\ndk\\21.0.6113669\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\ndk\\21.1.6352462\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing legacy package: D:\\sdk\\ndk\\android-ndk-r14b",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\patcher\\v4\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\platform-tools\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\platforms\\android-21\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\platforms\\android-24\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\platforms\\android-26\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\platforms\\android-27\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\platforms\\android-28\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\platforms\\android-29\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\platforms\\android-30\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\skiaparser\\1\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\sources\\android-21\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\sources\\android-27\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\sources\\android-28\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\sources\\android-29\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\system-images\\android-21\\default\\armeabi-v7a\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\system-images\\android-27\\google_apis_playstore\\x86\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\sdk\\tools\\package.xml",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027D:\\sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\studio_workspace\\testFFmpeg\\app\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027D:\\studio_workspace\\testFFmpeg\\app\\.cxx\\cmake\\release\\armeabi-v7a\u0027 but regenerating project",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : D:\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HD:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dD:\\sdk\\ndk\\21.1.6352462\n-DANDROID_PLATFORM\u003dandroid-21\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003dD:\\sdk\\ndk\\21.1.6352462\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\studio_workspace\\testFFmpeg\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003dD:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d21\n-BD:\\studio_workspace\\testFFmpeg\\app\\.cxx\\cmake\\release\\armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"D:/studio_workspace/testFFmpeg/app/src/main/cpp\",\n  \"buildDirectory\": \"D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dD:\\\\sdk\\\\ndk\\\\21.1.6352462\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003dD:\\\\sdk\\\\ndk\\\\21.1.6352462\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dD:\\\\sdk\\\\ndk\\\\21.1.6352462\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dD:\\\\studio_workspace\\\\testFFmpeg\\\\app\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dD:\\\\sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d21\"\n  ]\n}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"D:/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\",\"D:/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"D:/sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"D:/studio_workspace/testFFmpeg/app/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a\",\"name\":\"Project\",\"sourceDirectory\":\"D:/studio_workspace/testFFmpeg/app/src/main/cpp\",\"targets\":[{\"artifacts\":[\"D:/studio_workspace/testFFmpeg/app/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so\"],\"buildDirectory\":\"D:/studio_workspace/testFFmpeg/app/.cxx/cmake/release/armeabi-v7a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security   -Oz -DNDEBUG  -fPIC  \",\"defines\":[\"native_lib_EXPORTS\"],\"includePath\":[{\"path\":\"D:/studio_workspace/testFFmpeg/app/src/main/cpp/include\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"native-lib.cpp\",\"test2.cpp\",\"test3.cpp\",\"test4.cpp\",\"JavaCallHelper.cpp\",\"macro.cpp\",\"JFFmpeg.cpp\",\"AudioChannel.cpp\",\"VideoChannel.cpp\",\"SafeQueue.cpp\"]}],\"fullName\":\"libnative-lib.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--exclude-libs,libunwind.a -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-landroid D:\\\\studio_workspace\\\\testFFmpeg\\\\app\\\\src\\\\main\\\\cpp\\\\libs\\\\armeabi-v7a\\\\libavcodec.so D:\\\\studio_workspace\\\\testFFmpeg\\\\app\\\\src\\\\main\\\\cpp\\\\libs\\\\armeabi-v7a\\\\libavformat.so D:\\\\studio_workspace\\\\testFFmpeg\\\\app\\\\src\\\\main\\\\cpp\\\\libs\\\\armeabi-v7a\\\\libavutil.so D:\\\\studio_workspace\\\\testFFmpeg\\\\app\\\\src\\\\main\\\\cpp\\\\libs\\\\armeabi-v7a\\\\libswscale.so D:\\\\studio_workspace\\\\testFFmpeg\\\\app\\\\src\\\\main\\\\cpp\\\\libs\\\\armeabi-v7a\\\\libswresample.so -lOpenSLES -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"native-lib\",\"sourceDirectory\":\"D:/studio_workspace/testFFmpeg/app/src/main/cpp\",\"sysroot\":\"D:/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\studio_workspace\\testFFmpeg\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_output.txt",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\studio_workspace\\testFFmpeg\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  }
+]

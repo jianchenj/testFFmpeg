@@ -1,0 +1,57 @@
+{
+  "stringTable": {
+    "0": "D:/studio_workspace/testFFmpeg/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -ID:/studio_workspace/testFFmpeg/app/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\studio_workspace\\testFFmpeg\\app\\.cxx\\cmake\\debug\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "D:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\studio_workspace\\testFFmpeg\\app\\.cxx\\cmake\\debug\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "buildCommand": "D:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\studio_workspace\\testFFmpeg\\app\\.cxx\\cmake\\debug\\x86_64\" native-lib",
+      "buildType": "debug",
+      "toolchain": "2884263333",
+      "abi": "x86_64",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test2.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test3.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\studio_workspace\\testFFmpeg\\app\\src\\main\\cpp\\test4.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\studio_workspace\\testFFmpeg\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "2884263333": {
+      "cppCompilerExecutable": "D:\\sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
